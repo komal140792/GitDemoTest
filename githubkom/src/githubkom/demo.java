@@ -6,6 +6,6 @@ public class demo
 	public static void main(String[] args)
 	{
 	
-		System.out.println("my name is komal Abhi madane");
+		System.out.println("my name is komal Abhi mad");
 	}
 }
