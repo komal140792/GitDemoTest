@@ -8,6 +8,13 @@ public class demo
 	
 		System.out.println("my name is komal Abhi madane");
 	}
+
+	public void m1()
+	{
+			System.out.println("my address phaltan");
+
+	
+	}
 	
 	
 }
